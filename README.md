@@ -1,4 +1,4 @@
-https://suhobski.github.io/lesson-6/
+https://suhobski.github.io/black-sea/
 
 # Домашнее задание к уроку 6
 
