@@ -79,7 +79,6 @@ body {
 }
 
 .header__link {
-  /* position: relative; */
   display: inline-block;
 
   font-size: 1.2em;
