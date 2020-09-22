@@ -1,7 +1,4 @@
 @media screen and (max-width: 768px) {
-  body {
-    font-size: 12px;
-  }
 
   .header__nav {
     display: none;
@@ -9,9 +6,6 @@
 
   .header__btn {
     display: flex;
-    align-items: center;
-    position: absolute;
-    right: 20px;
   }
 }
 
